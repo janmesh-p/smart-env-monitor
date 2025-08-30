@@ -112,7 +112,7 @@ sudo apt install -y build-essential i2c-tools
 
 2. **Run**:
    ```bash
-   ./main_merged
+   ./smart-env-monitor
    ```
 
 ## ▶️ Expected Behavior
